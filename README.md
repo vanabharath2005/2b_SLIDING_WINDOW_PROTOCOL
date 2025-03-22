@@ -47,4 +47,4 @@ while True:
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
-](https://github.com/vanabharath2005/2b_SLIDING_WINDOW_PROTOCOL.git)
+
